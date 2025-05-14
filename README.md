@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ja">
   <head>
     <meta name="GOOGLEBOT" content="NOINDEX,NOFOLLOW,NOARCHIVE" />
